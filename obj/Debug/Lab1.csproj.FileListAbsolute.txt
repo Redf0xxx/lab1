@@ -1,0 +1,11 @@
+c:\users\comp\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Lab1.exe.config
+c:\users\comp\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+c:\users\comp\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.MainMenuForm.resources
+c:\users\comp\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+c:\users\comp\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+c:\users\comp\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Lab1.exe
+c:\users\comp\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Lab1.pdb
+c:\users\comp\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.exe
+c:\users\comp\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.pdb
+c:\users\comp\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.ActionsForm.resources
+c:\users\comp\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.ChangePassword.resources
